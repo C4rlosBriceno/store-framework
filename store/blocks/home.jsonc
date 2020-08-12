@@ -6,7 +6,7 @@
   },
   "rich-text":{
     "props":{
-      "text":"*INICIO*",
+      "text":"**INICIO**",
       "textPosition": "RIGHT"
     }
   }
