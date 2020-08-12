@@ -1,6 +1,8 @@
 .infoCardHeadline {
     color: black;
-    font-style: bold;
+    font-family: serif;
+    font-size: 2.25rem;
+    font-weight: bold;
 }
 
 .infoCardCallActionContainer :global(.vtex-button) {
