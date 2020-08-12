@@ -1,8 +1,9 @@
 .infoCardHeadline {
-    color: black;
     font-family: serif;
     font-size: 2.25rem;
-    font-weight: bold;
+    font-weight: normal;
+    color: black;
+    border: 2px bold;
 }
 
 .infoCardCallActionContainer :global(.vtex-button) {
@@ -13,10 +14,12 @@
 
 .infoCardCallActionContainer :global(.vtex-button):hover {
     color: white;
+    background-color: blue;
+    border: transparent;
 }
 
 .infoCardContainer--vintage {
-    background-color: #EDCFD1;
+    background-color: #e1e1e1;
 }
 .infoCardContainer--metal {
     background-color: #e1e1e1;
