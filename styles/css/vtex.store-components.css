@@ -19,9 +19,9 @@
     border: transparent;
 }
 
-/* .infoCardContainer--vintage {
-    background-color: white;
-} */
+.infoCardContainer--vintage {
+    background-color: #e1e1e1;
+}
 .infoCardContainer--metal {
     background-color: #e1e1e1;
 }
